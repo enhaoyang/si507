@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author  : Yang Yang
-# @UniqueName : yyanga
-# @Time    : 2023/4/10 13:34
-# @File    : treeStruct.py
 from anytree import Node, RenderTree
 
 root = Node("root")
