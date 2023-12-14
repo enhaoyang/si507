@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author  : Yang Yang
-# @UniqueName : yyanga
-# @Time    : 2023/4/10 17:05
-# @File    : pieStruct.py
-
 import plotly
 import plotly.graph_objs as go
 import plotly.subplots as sp
