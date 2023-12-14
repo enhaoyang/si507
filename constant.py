@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author  : Yang Yang
-# @UniqueName : yyanga
-# @Time    : 2023/4/9 13:35
-# @File    : constant.py
-
 genre_id_to_name = {
     28: 'Action',
     12: 'Adventure',
