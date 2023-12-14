@@ -1,4 +1,4 @@
-# Personalized Movie Recommendation System
+# Movie Recommendation System
 
 ## Overview
 This Personalized Movie Recommendation System leverages the TMDb and Reddit APIs to deliver a comprehensive movie exploration experience. Written in Python, it allows users to input their preferences and receive tailored movie suggestions, complete with detailed information, ratings distribution, discussion topics, and graphical representations of similar movies.
